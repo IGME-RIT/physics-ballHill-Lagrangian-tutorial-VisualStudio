@@ -1,0 +1,7 @@
+﻿  main.cpp
+d:\profiles\njp2424\desktop\physics\advacned topics\physics-ballhill-lagrangian-tutorial-mastervs2019\ballhilllagrangian\main.cpp(514): warning C4018: '<': signed/unsigned mismatch
+d:\profiles\njp2424\desktop\physics\advacned topics\physics-ballhill-lagrangian-tutorial-mastervs2019\ballhilllagrangian\main.cpp(516): warning C4018: '<': signed/unsigned mismatch
+d:\profiles\njp2424\desktop\physics\advacned topics\physics-ballhill-lagrangian-tutorial-mastervs2019\ballhilllagrangian\main.cpp(591): warning C4101: 'sz': unreferenced local variable
+d:\profiles\njp2424\desktop\physics\advacned topics\physics-ballhill-lagrangian-tutorial-mastervs2019\ballhilllagrangian\main.cpp(591): warning C4101: 'sx': unreferenced local variable
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  BallHillLagrangian.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\Advacned Topics\physics-ballHill-Lagrangian-tutorial-masterVS2019\BallHillLagrangian\Debug\BallHillLagrangian.exe
